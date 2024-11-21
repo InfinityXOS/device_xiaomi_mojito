@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_mojito.mk
+    $(LOCAL_DIR)/infinity_mojito.mk
 
 COMMON_LUNCH_CHOICES := \
-    bliss_mojito-user \
-    bliss_mojito-userdebug \
-    bliss_mojito-eng
+    infinity_mojito-user \
+    infinity_mojito-userdebug \
+    infinity_mojito-eng
