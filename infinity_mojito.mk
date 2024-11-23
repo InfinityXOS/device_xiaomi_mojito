@@ -18,7 +18,7 @@ $(call inherit-product, vendor/infinity/config/common_full_phone.mk)
 INFINITY_BUILD_TYPE := UNOFFICIAL
 INFINITY_MAINTAINER := Sachin_07
 TARGET_SUPPORTS_BLUR := true
-WITH_GAPPS := true
+WITH_GAPPS := false
 TARGET_BUILD_GOOGLE_TELEPHONY := false
 
 # Device identifier. This must come after all inclusions.
